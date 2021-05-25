@@ -1,0 +1,1 @@
+# golang-channel-test
